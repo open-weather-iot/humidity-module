@@ -1,22 +1,5 @@
-# TEMPLATE DE MÓDULO
-Esse repositório é um template para um módulo de sensor.
-
-## Utilizando esse template
-Para criar um novo módulo, siga os seguintes passos:
-- Crie um repositório no GitHub nesta organização (`open-weather-iot`)
-- Selecione o template `template-module`
-<img src="img/template-picker.png">
-
-- Dê um nome no formato `{sensor}-module`. Exemplo: `temperature-module`
-<img src="img/repo-name.png">
-
-- Não é necessário escrever uma descrição
-- Deixe o projeto público. **Não faça upload de nenhum arquivo com informações sensíveis**
-<img src="img/visibility.png">
-
-Após a inicialização do repositório:
-- Reescreva o arquivo README.md com a descrição do projeto, incluindo o que é, informações necessárias, detalhes de execução e o restante que julgar pertinente.
-- Inclua os arquivos necessários nas pastas descritas em na seção seguinte ([Organização de pastas e arquivos](#organizacao))
+# MÓDULO DE UMIDADE
+Esse repositório é um template para um módulo de sensor UMIDADE.
 
 ## Organização de pastas e arquivos <a id="organizacao"></a>
 - `altium/`: arquivos do Altium
